@@ -12,7 +12,9 @@ If you have Miniconda/Anaconda installed, you can directly use the command: `con
 
 ## Dysfluency simulation
 We use [VITS](https://github.com/jaywalnut310/vits) as our TTS model.
+
 0. Clone thies repository
+
 0. Download [VITS pretrained models](https://drive.google.com/drive/folders/1ksarh-cJf3F5eKJjLVWY0X1j1qsQqiS2?usp=sharing), here we need `pretrained_vctk.pth` to achieve multispeaker.
 
 
