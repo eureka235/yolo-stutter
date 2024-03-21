@@ -5,6 +5,7 @@
 
 ## Environment configuration
 Please refer [environment.yml](environment.yml)
+
 If you have Miniconda/Anaconda installed, you can directly use the command: `conda env create -f environment.yml`
 
 
