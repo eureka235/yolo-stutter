@@ -24,6 +24,14 @@ cd dysfluency_simulation/monotonic_align
 python setup.py build_ext --inplace
 ```
 
+0. Generate simulated speech
+```sh
+# Phoneme level
+python generate_phn.py
+
+# word level
+python generate_word.py
+```
 
 
 ## Datasets
