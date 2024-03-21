@@ -23,7 +23,7 @@ We use [VITS](https://github.com/jaywalnut310/vits) as our TTS model.
 cd dysfluency_simulation/monotonic_align
 python setup.py build_ext --inplace
 ```
-0. Generate simulated speech
+3. Generate simulated speech
 ```sh
 # Phoneme level
 python generate_phn.py
