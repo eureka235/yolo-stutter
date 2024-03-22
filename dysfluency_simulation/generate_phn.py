@@ -320,9 +320,9 @@ if __name__ == "__main__":
                     file_num = filename.split('_')[1].split('.')[0]
                     sid_value = sid.item()
                     filename = filename.replace("239", f"{sid_value:03}")
-                    out_path = f"/data/xuanru/VCTK-tts-rm/disfluent_audio/{filename.replace('.txt', '.wav')}"
+                    out_path = f"/data/xxxx/VCTK-tts-rm/disfluent_audio/{filename.replace('.txt', '.wav')}"
 
-                    text_file_path = f"/data/xuanru/VCTK-tts-rm/gt_text/{filename.replace('.wav', '.txt')}"
+                    text_file_path = f"/data/xxxx/VCTK-tts-rm/gt_text/{filename.replace('.wav', '.txt')}"
                     with open(text_file_path, 'w') as text_file:
                         text_file.write(text) 
                     try:
