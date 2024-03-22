@@ -28,7 +28,7 @@ python setup.py build_ext --inplace
 # Phoneme level
 python generate_phn.py
 
-# word level
+# Word level
 python generate_word.py
 ```
 
