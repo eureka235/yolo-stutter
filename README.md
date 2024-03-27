@@ -13,6 +13,15 @@ We open sourced our two simulated datasets, VCTK-TTS and VCTK-Stutter. The downl
 | VCTK-Stutter                | [link](https://drive.google.com/drive/folders/1EVAetm36uQa0JdTUC2qPUEK3dWRq3qdt?usp=sharing) |
 
 
+```
+${DATASET}
+├── disfluent_audio/  # simulated audio (.wav)
+├── disfluent_labels/ # simualted labels (.json)	      
+└── gt_text/  # ground truth text (.txt)
+
+```
+
+
 ## Environment configuration
 Please refer [environment.yml](environment.yml)
 
