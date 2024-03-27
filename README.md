@@ -18,7 +18,6 @@ ${DATASET}
 ├── disfluent_audio/  # simulated audio (.wav)
 ├── disfluent_labels/ # simualted labels (.json)	      
 └── gt_text/  # ground truth text (.txt)
-
 ```
 
 
