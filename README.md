@@ -5,6 +5,7 @@
 
 
 ## Datasets
+We open sourced our two simulated datasets, VCTK-TTS and VCTK-Stutter. The download links are as follows:
 
 | Dataset                        | URL                                                                                            |
 |-----------------------------|------------------------------------------------------------------------------------------------|
