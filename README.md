@@ -34,4 +34,8 @@ python generate_word.py
 
 
 ## Datasets
-The datasets will be open sourced soon.
+
+| Dataset                        | URL                                                                                            |
+|-----------------------------|------------------------------------------------------------------------------------------------|
+| VCTK-TTS               | [link](https://drive.google.com/drive/folders/1p5bRQOqMP3AkaoVp3hIGpiJ6ePkYoaeZ?usp=sharing)  |
+| VCTK-Stutter                | [link](https://drive.google.com/drive/folders/1EVAetm36uQa0JdTUC2qPUEK3dWRq3qdt?usp=sharing) |
