@@ -3,6 +3,15 @@
 ## Workflow
 <img src="Resources/workflow.png" alt="image-20240321090057059" style="zoom: 20%; display: block; margin-right: auto; margin-left: 0;" />
 
+
+## Datasets
+
+| Dataset                        | URL                                                                                            |
+|-----------------------------|------------------------------------------------------------------------------------------------|
+| VCTK-TTS               | [link](https://drive.google.com/drive/folders/1p5bRQOqMP3AkaoVp3hIGpiJ6ePkYoaeZ?usp=sharing)  |
+| VCTK-Stutter                | [link](https://drive.google.com/drive/folders/1EVAetm36uQa0JdTUC2qPUEK3dWRq3qdt?usp=sharing) |
+
+
 ## Environment configuration
 Please refer [environment.yml](environment.yml)
 
@@ -32,10 +41,3 @@ python generate_phn.py
 python generate_word.py
 ```
 
-
-## Datasets
-
-| Dataset                        | URL                                                                                            |
-|-----------------------------|------------------------------------------------------------------------------------------------|
-| VCTK-TTS               | [link](https://drive.google.com/drive/folders/1p5bRQOqMP3AkaoVp3hIGpiJ6ePkYoaeZ?usp=sharing)  |
-| VCTK-Stutter                | [link](https://drive.google.com/drive/folders/1EVAetm36uQa0JdTUC2qPUEK3dWRq3qdt?usp=sharing) |
